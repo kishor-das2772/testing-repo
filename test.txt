@@ -2,4 +2,5 @@ Hello
 I am doing good
 This line from feature4
 This line from feature5
+This line from feature6
 
