@@ -1,1 +1,2 @@
-My name is kishor
+My name is kishor.
+I am a python developer
